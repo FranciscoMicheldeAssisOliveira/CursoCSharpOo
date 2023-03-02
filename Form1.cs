@@ -21,6 +21,7 @@ namespace Bannco
         {
             MessageBox.Show("Olá mundo!");
             MessageBox.Show("Sejam bem vindos!");
+            MessageBox.Show("Criando tags");
         }
     }
 }
