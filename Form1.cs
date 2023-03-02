@@ -23,6 +23,7 @@ namespace Bannco
             MessageBox.Show("Sejam bem vindos!");
             MessageBox.Show("Criando tags");
             MessageBox.Show("Criando tags: 0.0.2");
+            MessageBox.Show("Criando tags: 0.0.3");
         }
     }
 }
