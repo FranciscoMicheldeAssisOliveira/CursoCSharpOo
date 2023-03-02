@@ -20,6 +20,9 @@ namespace Bannco
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Olá mundo!");
+            MessageBox.Show("Sejam bem vindos!");
+            MessageBox.Show("Criando tags");
+            MessageBox.Show("Criando tags: 0.0.2");
         }
     }
 }
